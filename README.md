@@ -97,7 +97,6 @@ User → CLI → Queue DB → Worker(s) → DLQ (if fails) → Dashboard (monito
 | ![Job Details](./screenshots/job_details.png) | Detailed view for a single job including command, output, and retry history. |
 | ![Configuration View](./screenshots/config_view.png) | Displays all configurable runtime parameters from the database. |
 
-> 💡 *Place your actual screenshots inside a folder named `screenshots/` in your project root (same place as README.md).*
 
 ---
 
