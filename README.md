@@ -136,7 +136,7 @@ http://localhost:3000/
 
 ## 🎥 Demo Video
 
-🎬 **Google Drive Demo:** [Demo Video]([https://drive.google.com/](https://drive.google.com/file/d/1uYlJwvHNDKK7o8zHxnkyDyfUo9UrmTDs/view?usp=sharing))
+🎬 **Google Drive Demo:** [Demo Video](https://drive.google.com/file/d/1uYlJwvHNDKK7o8zHxnkyDyfUo9UrmTDs/view?usp=sharing)
 
 ---
 
