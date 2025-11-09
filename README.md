@@ -136,9 +136,23 @@ http://localhost:3000/
 
 ## 🎥 Demo Video
 
-🎬 **Google Drive Demo:** [Demo Video](https://drive.google.com/file/d/1uYlJwvHNDKK7o8zHxnkyDyfUo9UrmTDs/view?usp=sharing)
+🎬 **Drive Link:** [Demo Video](https://drive.google.com/file/d/1uYlJwvHNDKK7o8zHxnkyDyfUo9UrmTDs/view?usp=sharing)
 
 ---
+---
+
+## 📚 References
+
+1. **Node.js Documentation** – [https://nodejs.org/docs](https://nodejs.org/docs)  
+   Used for understanding process management, file operations, and asynchronous execution.
+
+2. **TypeScript Handbook** – [https://www.typescriptlang.org/docs/](https://www.typescriptlang.org/docs/)  
+   For structuring strongly-typed modules and interfaces throughout the project.
+
+3. **Better-SQLite3 Library** – [https://github.com/WiseLibs/better-sqlite3](https://github.com/WiseLibs/better-sqlite3)  
+   Used as the database engine for persistent job storage and configuration.
+   
+> 💡 *All technologies used are open-source and self-contained, with no external APIs or paid dependencies.*
 
 ## 🏁 Final Notes
 
